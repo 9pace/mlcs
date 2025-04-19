@@ -22,9 +22,14 @@
 - Added GEE script to consolidate acadian region hansen/landsat data
 - Finalize GitHub repository with README and journal logs.
 
+## 04/19
+- Initialized GCP project instance for GEE
+- updated GEE script to landset 2 data
+- created mask function for c02 sensor pixel band applied l2 scale factors. (updated collection ids) indices are calculated after masking and scaling.
+- debug GEE script
+- image of acadian region for data available
 
 
-- Integrate
 
 ## 04/21/25
 - Discussed possibilities with Alp and TAs about prior work.
