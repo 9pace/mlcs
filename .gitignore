@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folder (if you create one inside the project)
+venv/
+env/
+.env/
+
+# Large data files (if NOT using Git LFS) - *Use Git LFS instead if possible*
+# data/landsat/*.tif
+# data/hansen/*.tif
+# ... etc ...
+
+# IDE files
+.idea/
+.vscode/
