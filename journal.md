@@ -29,7 +29,9 @@
 - debug GEE script
 - image of acadian region for data available
 
+## 04/20
+- Successfully configured and executed Google Earth Engine script to generate and export core datasets (annual Landsat C02 L2 composites 2000-2021 with indices, Hansen loss/cover, annual climate, DEM/slope) for the Northern Mainie study area (EPSG:32619, 30m res).
+- Set up local project structure, Git repository (configured Git LFS for GeoTIFFs), and Python virtual environment with necessary libraries. Data currently downloading from Google Drive.
 
-
-## 04/21/25
-- Discussed possibilities with Alp and TAs about prior work.
+## 04/21
+- Discussed with Alp and TAs about prior work use (I am able to use it and iterate on anything if necessary).
