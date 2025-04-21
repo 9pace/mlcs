@@ -10,11 +10,12 @@ venv/
 env/
 .env/
 
-# Large data files (if NOT using Git LFS) - *Use Git LFS instead if possible*
-# data/landsat/*.tif
-# data/hansen/*.tif
+# Large data files 
+data/landsat/*.tif
+data/hansen/*.tif
 # ... etc ...
 
 # IDE files
 .idea/
 .vscode/
+.DS_Store
