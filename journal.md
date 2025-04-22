@@ -39,3 +39,10 @@
 - Completed initial ML pipeline setup (Sections 1-5): Imported core libraries (numpy, pandas, rasterio, sklearn) and configured project paths.
 Implemented a crucial data verification function (verify_raster_alignment) using rasterio to ensure CRS, transform, and dimensions match across input GeoTIFFs before proceeding.
 - Implemented the feature extraction loop: Iterates through sampled points, opens relevant GeoTIFFs (Landsat t-1, Climate t-1, Climate t, DEM, Slope) using rasterio, reads pixel values efficiently using 1x1 windows, and assembles features into a list of dictionaries, later converted to a pandas DataFrame. Includes basic dropna() for handling potential NoData values read from rasters.
+
+## 04/22
+- adding temproal split, rf model training and evaluation
+- Implements temporal train/test split based on target year to prevent data leakage.
+- Initializes and trains a scikit-learn RandomForestClassifier using balanced class weights.
+- Saves the trained model using joblib for persistence.
+- Adds model evaluation code using scikit-learn metrics: classification report, confusion matrix, ROC AUC score, and plots.
