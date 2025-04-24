@@ -46,3 +46,9 @@ Implemented a crucial data verification function (verify_raster_alignment) using
 - Initializes and trains a scikit-learn RandomForestClassifier using balanced class weights.
 - Saves the trained model using joblib for persistence.
 - Adds model evaluation code using scikit-learn metrics: classification report, confusion matrix, ROC AUC score, and plots.
+
+## 04/23 - 24
+- adding model interpretation and final sections:
+- Extracts and plots feature importances (Gini) from the trained RF model using scikit-learn attributes and matplotlib.
+- Includes function skeleton for optional spatial prediction map generation using rasterio block processing.
+- Adds markdown structure for project conclusion, limitations, and future work.
