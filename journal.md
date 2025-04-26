@@ -51,4 +51,7 @@ Implemented a crucial data verification function (verify_raster_alignment) using
 - adding model interpretation and final sections:
 - Extracts and plots feature importances (Gini) from the trained RF model using scikit-learn attributes and matplotlib.
 - Includes function skeleton for optional spatial prediction map generation using rasterio block processing.
-- Adds markdown structure for project conclusion, limitations, and future work.
+- Adds markdown structure for project conclusion, limitations, and future work
+
+# 04/26
+- Setup minimal dataset for proceeding, with hansen, landsat, climate data in place

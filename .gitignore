@@ -11,9 +11,8 @@ env/
 .env/
 
 # Large data files 
-data/landsat/*.tif
-data/hansen/*.tif
-# ... etc ...
+data/landsat/
+data/hansen/
 
 # IDE files
 .idea/
