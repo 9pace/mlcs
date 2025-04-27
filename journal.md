@@ -55,3 +55,9 @@ Implemented a crucial data verification function (verify_raster_alignment) using
 
 # 04/26
 - Setup minimal dataset for proceeding, with hansen, landsat, climate data in place
+
+# 04/27
+- Experimenting with resampling, data nan issues are present. Trying to find reducable scope here.
+- Experimenting with feature extraction
+
+
