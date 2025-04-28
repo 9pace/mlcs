@@ -60,4 +60,20 @@ Implemented a crucial data verification function (verify_raster_alignment) using
 - Experimenting with resampling, data nan issues are present. Trying to find reducable scope here.
 - Experimenting with feature extraction
 
+# 04/28
+- Completed MVP with test run and random forest analysis. Low roc and auc due to data imputation issues. This will be the next point to focus on, perhaps will also attempt to try other models.
+- Discussed after class with Alp on project progress. He mentioned to document progress in paper, and to show the full journey. Appreciate his help and guidance.
+
+# 04/28
+- Completed MVP with test run and random forest analysis. Low roc and auc due to data imputation issues. This will be the next point to focus on, perhaps will also attempt to try other models.
+- Discussed after class with Alp on project progress. He mentioned to document progress in paper, and to show the full journey. Appreciate his help and guidance.
+
+# 04/28
+- Completed MVP with test run and random forest analysis. Low roc and auc due to data imputation issues. This will be the next point to focus on, perhaps will also attempt to try other models.
+- Discussed after class with Alp on project progress. He mentioned to document progress in paper, and to show the full journey. Appreciate his help and guidance.
+
+# 04/28
+- Completed MVP with test run and random forest analysis. Low roc and auc due to data imputation issues. This will be the next point to focus on, perhaps will also attempt to try other models.
+- Discussed after class with Alp on project progress. He mentioned to document progress in paper, and to show the full journey. Appreciate his help and guidance.
+
 
