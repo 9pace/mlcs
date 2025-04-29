@@ -11,7 +11,7 @@ env/
 .env/
 
 # Large data files 
-data/landsat/
+data/
 data/hansen/
 
 # IDE files
