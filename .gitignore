@@ -13,6 +13,7 @@ env/
 # Large data files 
 data/
 data/hansen/
+Climate-Driven-Tree-Migration-remote/src
 
 # IDE files
 .idea/
