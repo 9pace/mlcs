@@ -91,3 +91,4 @@
 
 - Had to rebase due to data issues, threw of commit times on github (hopefuly this is understandable)
 - Finished paper and completed data analysis, steps for moving forward
+- Restructured filed and fixed notebook presentability, completed documentation work
